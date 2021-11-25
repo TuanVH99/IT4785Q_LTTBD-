@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Personal Information</string>
+    <string name="form_title">Personal Information</string>
+    <string name="full_name">Full name (<font color="#FF0000">*</font>)</string>
+    <string name="student_code">Student code (<font color="#FF0000">*</font>)</string>
+    <string name="dob">Date of birth (<font color="#FF0000">*</font>)</string>
+    <string name="gender">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_undefined">Undefined</string>
+    <string name="address">Address</string>
+    <string name="phone_number">Phone number (<font color="#FF0000">*</font>)</string>
+    <string name="email">Email (<font color="#FF0000">*</font>)</string>
+    <string name="hobby">Hobby</string>
+    <string name="hobby_sport">Sport</string>
+    <string name="hobby_travel">Travel</string>
+    <string name="hobby_music">Music</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_policies">I have read and accept with the policies of the application</string>
+<string name="warn">Fields with (<font color="#FF0000">*</font>) must be filled!</string>
+    <string name="toast_message">Form submitted successfully!</string>
+</resources>
